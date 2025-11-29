@@ -4,7 +4,7 @@
   - [Projects](#projects)
     - [CA0 - Introduction to AI](#ca0---introduction-to-ai)
     - [CA1 - Search](#ca1---search)
-    - [CA2 - Genetics & Mini-Max](#ca2---genetics--mini---max)
+    - [CA2 - Game](#ca2---game)
     - [CA3 - Naive Bayes](#ca3---naive-bayes)
     - [CA4 - Machine Learning](#ca4---machine-learning)
     - [CA5 - Neural Networks](#ca5---neural-networks)
